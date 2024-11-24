@@ -13,7 +13,7 @@ Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]()
+**[LINK PARA O PODCAST AQUI](https://github.com/LucianaCerqueira/curso/blob/LucianaCerqueira-patch-1/ElevenLabs_2024-11-24T21_48_26_Alice_pre_s50_sb75_se0_b_m2.mp3)**
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
